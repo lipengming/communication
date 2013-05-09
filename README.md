@@ -3,6 +3,12 @@ communication
 
 Java-based chating room ,which be used in loacl area network
 
+
+项目目的：
+---
+学习java多线程开发，了解tcp/udp相关原理
+
+
 部分功能：
 ---
 > 服务端启动
